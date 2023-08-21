@@ -3,8 +3,13 @@
 Um Relatório de Vendas feito no Power BI
 
 
-## Imagens:    
+## Demonstração:    
+
+Página 1
+
+![Imagem1 demonstrando o resultado](Itens/Pagina_1.gif)
 
 
-![Imagem1 demonstrando o resultado](Itens/Pagina_1.png)
-![Imagem2 demonstrando o resultado](Itens/Pagina_2.png)
+Página 2
+
+![Imagem2 demonstrando o resultado](Itens/Pagina_2.gif)
